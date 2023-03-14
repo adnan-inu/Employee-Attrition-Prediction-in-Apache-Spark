@@ -7,7 +7,7 @@
 
 # FEW IMAGES FROM THE PROJECT
 ## Attrition by job role 
-![](attrition by job role.png)
+![](attrition%by%job%role.png)
 ## Number of employee by department 
 ![](Adnan-s-Analytics-Portfolio/Number%of%employee%by%department.png)
 ## Classification Evaluator 
