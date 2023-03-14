@@ -7,10 +7,10 @@
 
 #FEW IMAGES FROM THE PROJECT
 ## Attrition by job role 
-![](Adnan-s-Analytics-Portfolio/attrition by job role.png)
+![](Adnan-s-Analytics-Portfolio/attrition%by%job%role.png)
 ## Number of employee by department 
-![](Adnan-s-Analytics-Portfolio/Number of employee by department.png)
+![](Adnan-s-Analytics-Portfolio/Number%of%employee%by%department.png)
 ## Classification Evaluator 
-![](Adnan-s-Analytics-Portfolio/model classification.png) 
+![](Adnan-s-Analytics-Portfolio/model%classification.png) 
 ## Findings 
 ![](Adnan-s-Analytics-Portfolio/Findings.png) 
